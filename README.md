@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there!
 
+## My name is Mick and I am currently a M.S. Machine Learning and AI Candidate at Drexel University. My goal is to become a Machine Learning Engineer after I gradaute.
+## I have 5 years of experience working as a Product Analyst for Medical Device IT, where I captured business' requirements and translated them into jira stories, worked with our data services developer teams to release highly critical deliverables including data solutions, ETL, data modeling, and creating complex calculations and logic. 
 <!--
 **kaka-kakarot/kaka-kakarot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
